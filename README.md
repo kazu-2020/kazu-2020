@@ -1,6 +1,5 @@
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kazu-2020&count_private=true&show_icons=true&theme=omni" />
+<p align="left">
+  <img alt="Github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kazu-2020&count_private=true&show_icons=true&theme=omni" />
 </a>
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu-2020&layout=compact&theme=omni" />
-</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazu-2020&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
