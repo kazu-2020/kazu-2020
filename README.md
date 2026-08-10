@@ -2,7 +2,8 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Web アプリケーションエンジニア。Ruby と TypeScript を中心に、プロダクト開発からインフラの改善まで幅広く手を動かしています。
+  <samp>A web application engineer who builds and maintains products with Ruby on Rails.
+  Also works across the stack — TypeScript on the frontend, Terraform on the infrastructure side.
   </samp>
 </p>
 
@@ -16,8 +17,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react%20-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/terraform%20-%237B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/terraform%20-%237B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 <p align="center">PostgreSQL, Docker, GitHub Actions, Git, GitHub.</p>
 
