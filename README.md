@@ -1,9 +1,30 @@
-<p align="left">
-  <img alt="Github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kazu-2020&count_private=true&show_icons=true&theme=omni" />
-</a>
+<h1 align="center"> 👋 </h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazu-2020&theme=juicyfresh&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>Web アプリケーションエンジニア。Ruby と TypeScript を中心に、プロダクト開発からインフラの改善まで幅広く手を動かしています。
+  </samp>
+</p>
 
-[![](https://raw.githubusercontent.com/kazu-2020/kazu-2020/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kazu-2020/kazu-2020/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazu-2020/kazu-2020/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kazu-2020/kazu-2020/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kazu-2020/kazu-2020/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<hr>
+
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/ruby%20-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/rails%20-%23D30001.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/react%20-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/terraform%20-%237B42BC.svg?&style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/aws%20-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+<p align="center">PostgreSQL, Docker, GitHub Actions, Git, GitHub.</p>
+
+<hr>
+
+<h2 align="center"> 📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank" href="https://x.com/kazu20200705"><img src="https://img.shields.io/badge/x%20-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://zenn.dev/matazou"><img src="https://img.shields.io/badge/zenn%20-%233EA8FF.svg?&style=for-the-badge&logo=zenn&logoColor=white" /></a>
+</p>
